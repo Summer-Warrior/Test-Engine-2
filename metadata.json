@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Grid SRW Engine",
+  "description": "A Super Robot Wars tactical mecha game engine featuring grid-based terrain combat, Spirit Commands, pilot Will morale systems, and choreographed side-view cinematic battle animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
